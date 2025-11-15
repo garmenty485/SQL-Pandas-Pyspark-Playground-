@@ -1,3 +1,11 @@
+-- learning list:
+-- range join technique
+-- generate_series combining with subquery
+-- subquery getting a scalar
+-- date_trunc and to_char dealing with TIMESTAMP 
+-- coalesce dealing with NULL
+
+
 DROP TABLE IF EXISTS trades;
 
 CREATE TABLE trades (
