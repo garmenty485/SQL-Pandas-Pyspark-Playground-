@@ -1,9 +1,9 @@
 -- learning list:
--- range join technique
--- generate_series combining with subquery
--- subquery getting a scalar
--- date_trunc and to_char dealing with TIMESTAMP 
--- coalesce dealing with NULL
+-- 1.range join technique
+-- 2.generate_series combining with subquery
+-- 3.subquery getting a scalar
+-- 4.date_trunc and to_char dealing with TIMESTAMP 
+-- 5.coalesce dealing with NULL
 
 
 DROP TABLE IF EXISTS trades;
